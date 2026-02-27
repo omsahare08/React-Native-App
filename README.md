@@ -1,4 +1,4 @@
-# MyApp2 
+# MyApp
 
 A multi‑utility React Native application featuring user authentication and a collection of helpful tools:
 
@@ -64,7 +64,7 @@ Designed for learning and demonstration, this project is ready to be published o
 ```sh
 # clone repository
 git clone <your-repo-url>
-cd MyApp2
+cd MyApp
 
 # install dependencies
 npm install     # or yarn
